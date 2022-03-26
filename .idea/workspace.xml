@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bdb1caa-f232-4fd5-a667-9ac4b9f5bee7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/paintt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NEA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/github_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_V4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_files/Game_V3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_files/Game_V4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_files/Game_level_V2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_files/testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello_world.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WINDOW.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/access.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/Pixel_Platformer_Tileset_Pack/Asset_01/pixel_platform_01_tileset_final.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/Pixel_Platformer_Tileset_Pack/Asset_02/pixel_platform_02_tileset_final.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/Pixel_Platformer_Tileset_Pack/Asset_03/pixel_platform_03_tileset_final.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/Pixel_Platformer_Tileset_Pack/Background/background.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/Pixel_Platformer_Tileset_Pack/Background/clouds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/Pixel_Platformer_Tileset_Pack/Background/mountain_depth_z_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/Pixel_Platformer_Tileset_Pack/Background/mountain_depth_z_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/Pixel_Platformer_Tileset_Pack/Background/single_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/Pixel_Platformer_Tileset_Pack/Background/sky_solid_color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/Pixel_Platformer_Tileset_Pack/showcase_final.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/background_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/cave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/country-platform-files/country-platform-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/country-platform-files/layers/country-platform-back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/country-platform-files/layers/country-platform-forest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/country-platform-files/layers/country-platform-tiles-example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/country-platform-files/layers/country-platform-tileset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Demo/demo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Background/cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Background/mountain2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Background/pine1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Background/pine2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Background/sky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Background/sky_cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Decor/Bush/bush_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Decor/Bush/bush_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Decor/Rock/rock_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Decor/Rock/rock_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Decor/Tree/tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Decor/Tree/tree_dead.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Grass/grass_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Grass/grass_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Grass/grass_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Grass/grass_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Grass/grass_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Ground/ground_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Ground/ground_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Ground/ground_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Ground/ground_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Ground/ground_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Ground/ground_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Ground/ground_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Ground/ground_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Ground/ground_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Ground/ground_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/forest_tileset_lite/Sprites/Tile/Ground/ground_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/parallax_mountain_pack/layers/parallax-mountain-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/parallax_mountain_pack/layers/parallax-mountain-foreground-trees.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/parallax_mountain_pack/layers/parallax-mountain-montain-far.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/parallax_mountain_pack/layers/parallax-mountain-mountains.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgrounds/parallax_mountain_pack/layers/parallax-mountain-trees.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/boxes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/button.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Arrow04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin/sprite_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin/sprite_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin/sprite_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin/sprite_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin/sprite_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin/sprite_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin/sprite_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin/sprite_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin/sprite_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin/sprite_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin/sprite_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin/sprite_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin/sprite_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/coin/sprite_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/enemy/Die/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/enemy/Die/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/enemy/Die/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/enemy/Die/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/enemy/Die/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/enemy/Die/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/enemy/Idle/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/enemy/Idle/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/enemy/Idle/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/enemy/Idle3/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/left-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Ball and Chain Bot/Ball and Chain Bot/attack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Ball and Chain Bot/Ball and Chain Bot/charge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Ball and Chain Bot/Ball and Chain Bot/death.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Ball and Chain Bot/Ball and Chain Bot/hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Ball and Chain Bot/Ball and Chain Bot/idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Ball and Chain Bot/Ball and Chain Bot/run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Ball and Chain Bot/Ball and Chain Bot/sci ball and chain.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Ball and Chain Bot/Ball and Chain Bot/transition to charge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/GAS dash FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/GAS dash with FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/charge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/damaged.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/death.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/hot wheels flatten.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/hot wheels flatten.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/hot wheels small.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/hot wheels.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/move FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/move with FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/move without FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/shoot FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/shoot with FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/shoot without FX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/static idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Bot Wheel/Bot Wheel/wake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Fantasy Monsters/Monster_Creatures_Fantasy(Version 1.3)/Flying eye/Attack3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Fantasy Monsters/Monster_Creatures_Fantasy(Version 1.3)/Flying eye/projectile_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Fantasy Monsters/Monster_Creatures_Fantasy(Version 1.3)/Goblin/Attack3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Fantasy Monsters/Monster_Creatures_Fantasy(Version 1.3)/Goblin/Bomb_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Fantasy Monsters/Monster_Creatures_Fantasy(Version 1.3)/Mushroom/Attack3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Fantasy Monsters/Monster_Creatures_Fantasy(Version 1.3)/Mushroom/Projectile_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Fantasy Monsters/Monster_Creatures_Fantasy(Version 1.3)/Skeleton/Attack3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/Fantasy Monsters/Monster_Creatures_Fantasy(Version 1.3)/Skeleton/Sword_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/stormhead/stormhead/StormHead.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/stormhead/stormhead/attack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/stormhead/stormhead/damaged.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/stormhead/stormhead/death.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/stormhead/stormhead/idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobs/stormhead/stormhead/run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Bow/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Bow/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Bow/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Bow/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Die/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Die/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Die/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Die/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Die/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Die/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Falling/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Idle/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Idle/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Idle/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Idle2/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Idle2/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Idle2/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Idle2/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Idle3/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Idle3/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Idle3/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Idle3/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Jumping/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Running/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Running/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Running/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Running/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Running/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Running/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Running2/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Running2/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Running2/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Running2/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Running2/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Running2/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Sword/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Sword/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/Sword/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/temp/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player/temp/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Die/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Die/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Die/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Die/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Die/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Die/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Die/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Hurt/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Hurt/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Hurt/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Idle/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Idle/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Idle/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Idle/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Martial Hero 2/License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Martial Hero 2/Sprites/Attack1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Martial Hero 2/Sprites/Attack2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Martial Hero 2/Sprites/Death.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Martial Hero 2/Sprites/Fall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Martial Hero 2/Sprites/Idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Martial Hero 2/Sprites/Jump.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Martial Hero 2/Sprites/Run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/player2/Martial Hero 2/Sprites/Take hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/right-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiles/1/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/level_editor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/level0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/level1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/level3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/level4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_stuff/testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_info/users.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26vVdupleq09a9XYz36xtvX4fpU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="github_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bdb1caa-f232-4fd5-a667-9ac4b9f5bee7" name="Default Changelist" comment="" />
+      <created>1648304137929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648304137929</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
