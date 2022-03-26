@@ -271,7 +271,7 @@ def main():
 #------------------------ Go ahead and update display ------------------------#
         screen.blit(drawing_surf,(0,y2+40)) # blitting it downwards by y2+40 cuz of instruction texts
         pygame.display.update()
-        clock.tick(60)
+        clock.tick()
 
 
 main()
