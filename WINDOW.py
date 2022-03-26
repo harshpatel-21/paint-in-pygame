@@ -3,7 +3,7 @@ import pygame.freetype
 import os, sys
 pygame.init()
 x,y = 50,80
-
+# I WAS HERE
 
 os.environ['SDL_VIDEO_WINDOW_POS'] = f"{x},{y}"
 
